@@ -1,0 +1,92 @@
+[2022.11.30 10:34:58] I script started
+[2022.11.30 10:34:58] I result config is: {'REPORT_SIZE': 25, 'REPORT_DIR': './reports', 'LOG_DIR': './log', 'ERROR_PERCENT': 40, 'LOG_FILE': './log_analyzer.log'}
+[2022.11.30 10:34:58] I choised log file is nginx-access-ui.log-20170630.gz
+[2022.11.30 10:34:58] I reportfile is /home/svetlana/Загрузки/log_analyzer/reports/report20170630.html
+[2022.11.30 10:35:22] E fatal unexpected error
+Traceback (most recent call last):
+  File "/home/svetlana/Загрузки/log_analyzer/log_analyzer.py", line 199, in <module>
+    main(config)
+  File "/home/svetlana/Загрузки/log_analyzer/log_analyzer.py", line 182, in main
+    render_report(reportfile, result_replacement)
+  File "/home/svetlana/Загрузки/log_analyzer/log_analyzer.py", line 154, in render_report
+    with open("report.html", "r") as report:
+FileNotFoundError: [Errno 2] No such file or directory: 'report.html'
+[2022.11.30 10:36:20] I script started
+[2022.11.30 10:36:20] I result config is: {'REPORT_SIZE': 25, 'REPORT_DIR': './reports', 'LOG_DIR': './log', 'ERROR_PERCENT': 40, 'LOG_FILE': './log_analyzer.log'}
+[2022.11.30 10:36:20] I choised log file is nginx-access-ui.log-20170630.gz
+[2022.11.30 10:36:20] I reportfile is /home/svetlana/Загрузки/log_analyzer/reports/report20170630.html
+[2022.11.30 10:36:43] E fatal unexpected error
+Traceback (most recent call last):
+  File "/home/svetlana/Загрузки/log_analyzer/log_analyzer.py", line 199, in <module>
+    main(config)
+  File "/home/svetlana/Загрузки/log_analyzer/log_analyzer.py", line 182, in main
+    render_report(reportfile, result_replacement)
+  File "/home/svetlana/Загрузки/log_analyzer/log_analyzer.py", line 154, in render_report
+    with open("report.html", "r") as report:
+FileNotFoundError: [Errno 2] No such file or directory: 'report.html'
+[2022.11.30 10:42:51] I script started
+[2022.11.30 10:42:51] I result config is: {'REPORT_SIZE': 25, 'REPORT_DIR': './reports', 'LOG_DIR': './log', 'ERROR_PERCENT': 40, 'LOG_FILE': './log_analyzer.log'}
+[2022.11.30 10:42:51] I choised log file is nginx-access-ui.log-20170630.gz
+[2022.11.30 10:42:51] I reportfile is /home/svetlana/Загрузки/log_analyzer/reports/report20170630.html
+[2022.11.30 10:43:14] I script done
+[2022.11.30 10:54:09] I script started
+[2022.11.30 10:54:09] I result config is: {'REPORT_SIZE': 25, 'REPORT_DIR': './reports', 'LOG_DIR': './log', 'ERROR_PERCENT': 40, 'LOG_FILE': './log_analyzer.log'}
+[2022.11.30 10:54:09] I choised log file is nginx-access-ui.log-20170630.gz
+[2022.11.30 10:54:09] I reportfile is /home/svetlana/Загрузки/log_analyzer/reports/report20170630.html
+[2022.11.30 10:54:33] I script done
+[2022.11.30 11:03:34] I script started
+[2022.11.30 11:03:34] I result config is: {'REPORT_SIZE': 25, 'REPORT_DIR': './reports', 'LOG_DIR': './log', 'ERROR_PERCENT': 40, 'LOG_FILE': './log_analyzer.log'}
+[2022.11.30 11:03:34] I choised log file is nginx-access-ui.log-20170630.gz
+[2022.11.30 11:03:34] I reportfile is /home/svetlana/Загрузки/log_analyzer/reports/report20170630.html
+[2022.11.30 11:03:34] I Report alredy created
+[2022.11.30 11:03:55] I script started
+[2022.11.30 11:03:55] I result config is: {'REPORT_SIZE': 25, 'REPORT_DIR': './reports', 'LOG_DIR': './log', 'ERROR_PERCENT': 40, 'LOG_FILE': './log_analyzer.log'}
+[2022.11.30 11:03:55] I choised log file is nginx-access-ui.log-20170630.gz
+[2022.11.30 11:03:55] I reportfile is /home/svetlana/Загрузки/log_analyzer/reports/report20170630.html
+[2022.11.30 11:04:19] I script done
+[2022.11.30 11:36:21] I script started
+[2022.11.30 11:36:21] I result config is: {'REPORT_SIZE': 25, 'REPORT_DIR': './reports', 'LOG_DIR': './log', 'ERROR_PERCENT': 40, 'LOG_FILE': './log_analyzer.log'}
+[2022.11.30 11:36:21] I choised log file is nginx-access-ui.log-20170630.gz
+[2022.11.30 11:36:21] I reportfile is /home/svetlana/Загрузки/log_analyzer/reports/report20170630.html
+[2022.11.30 11:36:21] I Report alredy created
+[2022.11.30 11:36:29] I script started
+[2022.11.30 11:36:29] I result config is: {'REPORT_SIZE': 25, 'REPORT_DIR': './reports', 'LOG_DIR': './log', 'ERROR_PERCENT': 40, 'LOG_FILE': './log_analyzer.log'}
+[2022.11.30 11:36:29] I choised log file is nginx-access-ui.log-20170630.gz
+[2022.11.30 11:36:29] I reportfile is /home/svetlana/Загрузки/log_analyzer/reports/report20170630.html
+[2022.11.30 11:36:54] I script done
+[2022.11.30 12:03:43] I _________________________________________________________
+[2022.11.30 12:03:43] I Script is started
+[2022.11.30 12:03:43] I Result config is: {'REPORT_SIZE': 25, 'REPORT_DIR': './reports', 'LOG_DIR': './log', 'ERROR_PERCENT': 40, 'LOG_FILE': './log_analyzer.log'}
+[2022.11.30 12:03:43] I choised log file is nginx-access-ui.log-20170630.gz
+[2022.11.30 12:03:43] I Reportfile is /home/svetlana/Загрузки/log_analyzer/reports/Report20170630.html
+[2022.11.30 12:04:07] I Script is done. Reportfile /home/svetlana/Загрузки/log_analyzer/reports/Report20170630.html
+[2022.11.30 12:06:13] I _________________________________________________________
+[2022.11.30 12:06:13] I Script is started
+[2022.11.30 12:06:13] I Result config is: {'REPORT_SIZE': 25, 'REPORT_DIR': './reports', 'LOG_DIR': './log', 'ERROR_PERCENT': 40, 'LOG_FILE': './log_analyzer.log'}
+[2022.11.30 12:06:13] I choised log file is nginx-access-ui.log-20170630.gz
+[2022.11.30 12:06:13] I Reportfile is /home/svetlana/Загрузки/log_analyzer/reports/Report20170630.html
+[2022.11.30 12:06:35] I Script is done. Reportfile /home/svetlana/Загрузки/log_analyzer/reports/Report20170630.html
+[2022.11.30 13:08:38] I _________________________________________________________
+[2022.11.30 13:08:38] I Script is started
+[2022.11.30 13:08:38] I Result config is: {'REPORT_SIZE': 25, 'REPORT_DIR': './reports', 'LOG_DIR': './log', 'ERROR_PERCENT': 40, 'LOG_FILE': './log_analyzer.log'}
+[2022.11.30 13:08:38] E fatal unexpected error
+Traceback (most recent call last):
+  File "/home/svetlana/Загрузки/log_analyzer/log_analyzer.py", line 204, in <module>
+    main(config)
+  File "/home/svetlana/Загрузки/log_analyzer/log_analyzer.py", line 168, in main
+    my_log = get_last_log(config["LOG_DIR"])
+  File "/home/svetlana/Загрузки/log_analyzer/log_analyzer.py", line 58, in get_last_log
+    current_date = datetime.datetime.strptime(matched.groups()[0], '%Y%m%d').strftime('%Y%m%d')
+IndexError: tuple index out of range
+[2022.11.30 13:09:52] I _________________________________________________________
+[2022.11.30 13:09:52] I Script is started
+[2022.11.30 13:09:52] I Result config is: {'REPORT_SIZE': 25, 'REPORT_DIR': './reports', 'LOG_DIR': './log', 'ERROR_PERCENT': 40, 'LOG_FILE': './log_analyzer.log'}
+[2022.11.30 13:09:52] I choised log file is nginx-access-ui.log-20170630.gz
+[2022.11.30 13:09:52] I Reportfile is /home/svetlana/Загрузки/log_analyzer/reports/Report20170630.html
+[2022.11.30 13:10:18] I Script is done. Reportfile /home/svetlana/Загрузки/log_analyzer/reports/Report20170630.html
+[2022.11.30 14:19:54] I _________________________________________________________
+[2022.11.30 14:19:54] I Script is started
+[2022.11.30 14:19:54] I Result config is: {'REPORT_SIZE': 25, 'REPORT_DIR': './reports', 'LOG_DIR': './log', 'ERROR_PERCENT': 40, 'LOG_FILE': './log_analyzer.log'}
+[2022.11.30 14:19:54] I choised log file is nginx-access-ui.log-20170630.gz
+[2022.11.30 14:19:54] I Reportfile is /home/svetlana/Загрузки/log_analyzer/reports/Report20170630.html
+[2022.11.30 14:20:20] I Script is done. Reportfile /home/svetlana/Загрузки/log_analyzer/reports/Report20170630.html
